@@ -12,10 +12,16 @@
     margin-right: auto;
     width: 500px;
     height: 40px;
-
 }
 .underSearch {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    margin-top: 40px;
+}
+.searchButt {
+    margin-left: 10px;
+    color: rgb(78, 73, 73);
+    background-color: rgba(255, 255, 255, 0.801);
+    border: none;
 }
